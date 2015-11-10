@@ -1,0 +1,24 @@
+{
+  "name": "socketiochat",
+  "version": "1.0.0",
+  "description": "Tutorial from socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonArroyo/socketiochat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonArroyo/socketiochat/issues"
+  },
+  "homepage": "https://github.com/BrandonArroyo/socketiochat#readme",
+  "dependencies": {
+    "express": "^4.10.2",
+    "nodemon": "^1.8.1",
+    "socket.io": "^1.3.7"
+  }
+}
