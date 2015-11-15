@@ -9,7 +9,7 @@ form button { width: 9%; background: rgb(130, 224, 255); border: none; padding: 
     background: #ceffe2;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.25);
     position: relative;
-    animation: fadeinup 1s;
+    animation: fadeinup .5s;
     box-sizing: border-box;
     padding: 2em;
     margin: 2em 0;
